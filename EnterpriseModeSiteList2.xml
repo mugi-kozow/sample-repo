@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<site-list version="2">
-  
-  <site url="https://yghqiudrpnnx.fs.proplusapps.com/ppfs_web/*">
+<site-list version="2" xmlns="http://schemas.microsoft.com/ie/enterprise/2015">
+
+  <site url="https://yghqiudrpnnx.fs.proplusapps.com/">
     <compat-mode>IE8Enterprise</compat-mode>
     <open-in allow-redirect="true">IE mode</open-in>
   </site>
 
   <site url="https://yghqiudrpnnx.fs.proplusapps.com/*">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE mode</open-in>
+  </site>
+
+  <site url="https://yghqiudrpnnx.fs.proplusapps.com/ppfs_web/*">
     <compat-mode>IE8Enterprise</compat-mode>
     <open-in allow-redirect="true">IE mode</open-in>
   </site>
